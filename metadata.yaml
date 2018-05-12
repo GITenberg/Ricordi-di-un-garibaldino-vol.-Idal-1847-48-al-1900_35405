@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37652'
     url: http://www.gutenberg.org/2009/agents/37652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35405#Ricordi-di-un-garibaldino-vol.-Idal-1847-48-al-1900
 gutenberg_bookshelf: IT Biografie
 gutenberg_issued: '2011-02-26'
 gutenberg_type: Text
