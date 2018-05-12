@@ -1,0 +1,29 @@
+_repo: Ricordi-di-un-garibaldino-vol.-Idal-1847-48-al-1900_35405
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elia, Augusto
+    birthdate: 1829
+    deathdate: 1919
+    gutenberg_agent_id: '37652'
+    url: http://www.gutenberg.org/2009/agents/37652
+description: ''
+gutenberg_bookshelf: IT Biografie
+gutenberg_issued: '2011-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35405'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1815-1870'
+- !lcsh 'Italy -- History -- 1870-1914'
+- !lcsh 'Elia, Augusto, 1829-1919'
+- !lcc 'DG'
+title: Ricordi di un garibaldino dal 1847-48 al 1900. vol. I
+url: http://www.gutenberg.org/ebooks/35405
